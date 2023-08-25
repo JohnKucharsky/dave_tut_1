@@ -12,3 +12,4 @@ yarn dev
 pnpm dev
 ```
 
+https://www.youtube.com/watch?v=843nec-IvW0&t=5250s
